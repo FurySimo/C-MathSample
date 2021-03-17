@@ -1,0 +1,16 @@
+D:\Important Documents\GitHub Codes\C#\SampleMath\obj\Debug\net5.0\SampleMath.csprojAssemblyReference.cache
+D:\Important Documents\GitHub Codes\C#\SampleMath\obj\Debug\net5.0\SampleMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\Important Documents\GitHub Codes\C#\SampleMath\obj\Debug\net5.0\SampleMath.AssemblyInfoInputs.cache
+D:\Important Documents\GitHub Codes\C#\SampleMath\obj\Debug\net5.0\SampleMath.AssemblyInfo.cs
+D:\Important Documents\GitHub Codes\C#\SampleMath\obj\Debug\net5.0\SampleMath.csproj.CoreCompileInputs.cache
+D:\Important Documents\GitHub Codes\C#\SampleMath\bin\Debug\net5.0\SampleMath.exe
+D:\Important Documents\GitHub Codes\C#\SampleMath\bin\Debug\net5.0\SampleMath.deps.json
+D:\Important Documents\GitHub Codes\C#\SampleMath\bin\Debug\net5.0\SampleMath.runtimeconfig.json
+D:\Important Documents\GitHub Codes\C#\SampleMath\bin\Debug\net5.0\SampleMath.runtimeconfig.dev.json
+D:\Important Documents\GitHub Codes\C#\SampleMath\bin\Debug\net5.0\SampleMath.dll
+D:\Important Documents\GitHub Codes\C#\SampleMath\bin\Debug\net5.0\ref\SampleMath.dll
+D:\Important Documents\GitHub Codes\C#\SampleMath\bin\Debug\net5.0\SampleMath.pdb
+D:\Important Documents\GitHub Codes\C#\SampleMath\obj\Debug\net5.0\SampleMath.dll
+D:\Important Documents\GitHub Codes\C#\SampleMath\obj\Debug\net5.0\ref\SampleMath.dll
+D:\Important Documents\GitHub Codes\C#\SampleMath\obj\Debug\net5.0\SampleMath.pdb
+D:\Important Documents\GitHub Codes\C#\SampleMath\obj\Debug\net5.0\SampleMath.genruntimeconfig.cache
